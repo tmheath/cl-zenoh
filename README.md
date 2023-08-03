@@ -11,3 +11,11 @@ ended up succeeding but it took way too long. Figure this should be simpler.
 Hoping other people end up using this... atypical espeacially considering a
 track record of starting and deleting and making private and deleting accounts.
 :)
+
+
+
+NOTE
+----
+
+While browsing this earlier I didn't see a section on compiling for windows,
+probably missed it but I saw it included in the cmake.
