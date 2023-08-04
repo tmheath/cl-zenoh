@@ -1,4 +1,4 @@
-# cl-zinoh
+# cl-zenoh
 Interface into the Zenoh network protocol from Common Lisp using the Zenoh C bindings Rust project.
 
 
